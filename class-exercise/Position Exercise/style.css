@@ -1,0 +1,13 @@
+.container{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: stretch;
+	height: 400px;
+	background: gray;
+	flex-wrap: 
+}
+
+.brown {
+	background: rgb(192,157,116);
+}

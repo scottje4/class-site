@@ -1,0 +1,13 @@
+p{
+	font-family: univers;
+	font-size: 17px;
+	letter-spacing: 5px;
+	text-align: left;
+	color: white;
+  	text-shadow: 2px 2px 4px #000000;
+  	padding-left: 40%;
+}
+
+body{
+	color: rgb(140, 61,205)
+}

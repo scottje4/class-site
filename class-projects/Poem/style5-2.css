@@ -1,0 +1,41 @@
+.box1{
+	font-family: univers;
+	font-size: 17px;
+	text-align: left;
+	color: white;
+  	text-shadow: 2px 2px 4px rgb(140,61,206);
+  	padding-left: 10%;
+  	letter-spacing: 10px;
+}
+
+.box2{
+	font-family: univers;
+	font-size: 17px;
+	text-align: left;
+	color: white;
+  	text-shadow: 2px 2px 4px rgb(45,102,191);
+  	padding-left: 10%;
+  	letter-spacing: 20px;
+}
+
+.box3{
+	font-family: univers;
+	font-size: 17px;
+	text-align: left;
+	color: white;
+  	text-shadow: 2px 2px 4px rgb(104,229,235);
+  	padding-left: 10%;
+  	letter-spacing: 30px;
+}
+
+.box4{
+	font-family: univers;
+	font-size: 17px;
+	text-align: left;
+	color: white;
+  	text-shadow: 2px 2px 4px rgb(219,49,96);
+  	padding-left: 10%;
+  	letter-spacing: 40px;
+}
+
+

@@ -1,0 +1,33 @@
+.hover-img{
+	display: none;
+	transition: 5s ease;
+}
+
+.hoverme:hover .hover-img {
+	display: block;
+	position: fixed;
+	top: 40%;
+	left: 20%;
+}
+
+.btn{
+	padding: 30px;
+	background: green;
+	position: fixed;
+	transition: 2s ease;
+}
+
+.btn:hover {
+	background: red;
+	transform: scale(3y);
+}
+
+.next-btn{
+	top: 50%;
+	right:0;
+}
+
+.prev-btn{
+	top: 50%;
+	left: 0:;
+}

@@ -1,0 +1,23 @@
+.box1{
+	padding-left: 32px;
+	padding-top: 16px;
+	color: red
+}
+
+.box2{
+	padding-left: 32px;
+	padding-top: 16px;
+	color: orange;
+}
+
+.box3{
+	padding-left: 32px;
+	padding-top: 16px;
+	color: green;
+}
+
+.box4{
+	padding-left: 32px;
+	padding-top: 16px;
+	color: blue;
+}
