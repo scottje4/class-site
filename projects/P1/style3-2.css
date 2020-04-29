@@ -1,0 +1,23 @@
+.box1{
+	text-align: center;
+	color: white;
+}
+
+.box2{
+	text-align: center;
+	color: white;
+}
+
+.box3{
+	text-align: center;
+	color: white;
+}
+
+.box4{
+	text-align: center;
+	color: white;
+}
+
+body{
+	background-image: linear-gradient(rgb(140,61,206), rgb(104,229,235))
+}

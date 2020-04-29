@@ -1,0 +1,167 @@
+body{
+	color: #c9c1ac;
+	font-family: poppins;
+	background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(../img/2.jpg)center/cover no-repeat;
+}
+
+.info{
+	background: #c9c1ac;
+}
+
+.primary-color{
+	color: #d33;
+}
+
+.info h2{
+	word-spacing: 0.6rem;
+	font-size: 8px;
+}
+
+h2{
+	font-size: 24px;
+}
+
+h3{
+	color: #d33;
+}
+
+.info a{
+	transition: color 0.3s ease-in-out;
+}
+
+.info a:hover{
+	color: #242424;
+}
+
+/*################header################*/
+
+#header{
+	min-height: calc(100vh - 94px);
+	background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../img/3.jpg);
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	position: relative;
+} 
+
+.height-90{
+	min-height: calc(100vh - 94px);
+}
+
+.banner h1{
+	border-top: 6px dotted #c9c1ac;
+	border-bottom: 6px dotted #c9c1ac;
+}
+
+.main-btn{
+	color: #d33;
+	font-size: 2rem;
+	border:2px solid #d33;
+	transition: all 0.3s ease-in-out;
+}
+
+.main-btn:hover{
+	color: #242424;
+	border:2px solid #c9c1ac;
+	background: #c9c1ac;
+}
+
+.header-link{
+	display: inline-block;
+	position: absolute;
+	bottom: 5%;
+	left: 49%;
+	background: #c9c1ac;
+	border-radius: 4px;
+	transition: all 0.3s ease;
+	animation: back-to-bottom;
+	animation-duration: 2s;
+	animation-iteration-count: infinite: 
+}
+
+.header-link{
+	color: #242424;
+
+}
+
+@keyframes back-to-bottom{
+	0%{
+		transform: translateX(-10px);
+	}
+	50%{
+		transform: translateY(10px);
+	}
+	100%{
+		transform: translateY(-10px);
+	}
+}
+
+#back-to-bottom{
+	background: #c9c1ac;
+	border-radius: 4px;
+	display: inline-block;
+}
+
+.scrollBottom{
+	position: fixed;
+	bottom: 70px;
+	right: 10px;
+}
+
+/*################  hours  ################*/
+
+
+
+/*################  contact  ################*/
+
+.height-60{
+	min-height: 40vh;
+}
+
+#contact .card{
+	background: rgba(0,0,0,0.5);
+	transition: all 0.3s ease;
+}
+
+#contact .card:hover{
+	background: rgba(0,0,0,0.8);
+}
+
+#contact .card-header{
+	color: #242424;
+}
+
+#contact .input-group-text{
+	background: #d33;
+	border-color: #d33;
+	color: #242424;
+}
+
+#contact .card input{
+	color: #606060;
+}
+
+#contact .card input::placeholder{
+	color: #606060;
+}
+
+.contact-btn{
+	color: #d33;
+	border-color: #d33;
+	background: transparent;
+	transition: all 0.3s ease-in-out;
+}
+
+.contact-btn:hover{
+	background: #d33;
+	color: #f1f1f1;
+	border-color: #d33;
+}
+
+/*################  footer  ################*/
+
+
+
+
+
