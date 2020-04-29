@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+	<meta charset="utf-8">
+	<title>exercise</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+	<div class="middle">
+
+		<a href="index.html" class="btn btn3"><- Back</a>
+
+		<a href="class-exercise/html-exercise/index.html" class="btn btn3">First website</a>
+
+		<a href="class-exercise/html/index.html" class="btn btn3">html</a>
+
+		<a href="class-exercise/css/index.html" class="btn btn3">css</a>
+
+		<a href="class-exercise/position/index.html" class="btn btn3">position</a>
+
+		<a href="class-exercise/interaction-exercise/index.html" class="btn btn3">Interaction</a>
+
+		<a href="class-exercise/animation/index.html" class="btn btn3">animation</a>
+
+
+</body>
+</html>
